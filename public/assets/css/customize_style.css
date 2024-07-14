@@ -1,0 +1,10 @@
+.navbar_page {
+    width: Fixed (1, 184px) px;
+    top: 300px;
+    padding: 10px 24px 10px 24px;
+    gap: 18px;
+    border-radius: 0px 0px 0px 50px;
+    opacity: 0px;
+
+    background: var(--Main-Main-2, rgba(63, 168, 225, 1));
+}
